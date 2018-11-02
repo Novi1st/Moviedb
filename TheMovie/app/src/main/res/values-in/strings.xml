@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film</string>
+    <string name="details">Selengkapnya</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="comedy_action">Komedi, Action</string>
+    <string name="_8_7">8,7</string>
+    <string name="about">Tentang</string>
+    <string name="lenguage">Bahasa</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="setting">Pengaturan</string>
+</resources>
